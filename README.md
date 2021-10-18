@@ -2,8 +2,6 @@
 A simple single-page webpage that holds all of your social links and a brief description about you with your pic and a bg-image.   
 ***note: This is not a responsive site, only for smartphones***
 
-![image](https://user-images.githubusercontent.com/79351092/137678908-7f41b024-1f16-4c41-9b18-0725b27d0787.png)
-
 ## For Windows
 * clone my repo
 * change the directory to the root directory, `cd Social-link`
@@ -19,3 +17,4 @@ For this project I personally prefer [Firebase](https://firebase.google.com/) fo
 for hosting refer to my [YouTube Video]().
 
 
+![image](https://user-images.githubusercontent.com/79351092/137678908-7f41b024-1f16-4c41-9b18-0725b27d0787.png)
