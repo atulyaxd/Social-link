@@ -13,7 +13,7 @@ body, html {
 }
 
 .bg-image {
-  background-image: url("https://images.unsplash.com/photo-1619143921821-61e111505f3e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fG1vdW5hdGluc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60");
+  background-image: url("url for your image");
   
   filter: blur;
   -webkit-filter: blur;
