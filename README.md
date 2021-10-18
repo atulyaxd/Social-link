@@ -14,4 +14,7 @@ A simple single-page webpage that holds all of your social links and a brief des
 
 ## Hosting for free
 For this project I personally prefer [Firebase](https://firebase.google.com/) for hosting this webpage on as its ***free*** and quite fast for this webpage.
-for hosting refer to my [YouTube Video]().
+for hosting refer to this ***not mine*** [YouTube Video](https://youtu.be/w7xKZ5PWizs).
+
+
+***Feel free to use my code, don't forget to mention credit.***
