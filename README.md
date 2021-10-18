@@ -3,7 +3,7 @@ A simple single-page webpage that holds all of your social links and a brief des
 ***note: This is not a responsive site, only for smartphones***
 
 ## For Windows
-* clone my repo
+* clone my repo, `git clone https://github.com/itsatulya/Social-link.git`
 * change the directory to the root directory, `cd Social-link`
 * move out all the files in ***public*** (it will help post).
 
