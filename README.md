@@ -16,6 +16,6 @@ A simple single-page webpage that holds all of your social links and a brief des
 For this project I personally prefer [Firebase](https://firebase.google.com/) for hosting this webpage on as its ***free*** and quite fast for this webpage.
 for hosting refer to this ***not mine*** [YouTube Video](https://youtu.be/w7xKZ5PWizs).
 
-![Replit](https://heyme.atulyabharat1.repl.co)
+***[heres mine webpage](https://itsatulya.web.app/)***
 
 ***Feel free to use my code, don't forget to mention credit.***
