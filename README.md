@@ -5,7 +5,7 @@ A simple single-page webpage that holds all of your social links and a brief des
 ## For Windows
 * clone my repo, `git clone https://github.com/itsatulya/Social-link.git`
 * change the directory to the root directory, `cd Social-link`
-* move out all the files in ***public*** (it will help post).
+* move out all the files from ***public*** (it will help post).
 
 ## Customizing
 * ***Name, Intro, Social media Links*** : Fill all the fields ***(name,intro and social media links)*** mentioned in [index.html](https://github.com/itsatulya/Social-link/blob/6e234fb1c517fbe9b095b7a290e191f0b556e170/public/index.html) in ***line 12, 13, 19, 20, 21, 22*** respectively.
